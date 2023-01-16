@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">A passionate developer from Ireland who currently resides in Japan.</h3>
