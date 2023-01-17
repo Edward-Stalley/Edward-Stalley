@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **stalleye@tcd.ie**
 
-- 📄 Know about my experiences [https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20CV.pdf](https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20CV.pdf)
+- 📄 Know about my experiences [https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20CV.pdf](https://github.com/Edward-Stalley/resume/blob/main/Edward-Stalley.pdf)
 
 - ⚡ Fun fact **I love rock climbing and learning new things. I often study Japanese in my spare time.**
 
