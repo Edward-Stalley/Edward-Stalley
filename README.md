@@ -4,15 +4,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward-stalley" alt="edward-stalley" /></a> </p>
 
-- 🔭 I’m currently working on [A flashcard Project for an English School so that their students can review and prepare vocabulary for their classes.](https://flashcard-app-2022-version-2-0.vercel.app/)
+- 🔭 I’m currently working on [a flashcard project](https://flashcard-app-2022-version-2-0.vercel.app/) for an English School so that their students can review and prepare vocabulary for their classes.
 
-- 🌱 I’m currently learning **Next.js & React**
+- 🌱 I’m currently learning **Next.js & React**.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-js-edward-stalley.vercel.app/](https://portfolio-site-js-edward-stalley.vercel.app/)
+- 👨‍💻 My projects are available on [my portfolio site](https://portfolio-site-js-edward-stalley.vercel.app/).
 
-- 📫 How to reach me **stalleye@tcd.ie**
+- 📫 You can contact me at **stalleye@tcd.ie**.
 
-- 📄 Know about my experiences [https://github.com/Edward-Stalley/resume/blob/main/Edward%20Stalley%20CV.pdf](https://github.com/Edward-Stalley/resume/blob/main/Edward-Stalley.pdf)
+- 📄 Know about my experiences by looking at my [resume](https://github.com/Edward-Stalley/resume/blob/main/Edward-Stalley.pdf).
 
 - ⚡ Fun fact **I love rock climbing and learning new things. I often study Japanese in my spare time.**
 
