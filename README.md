@@ -4,9 +4,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward-stalley" alt="edward-stalley" /></a> </p>
 
-- 🔭 I’m currently working on [a flashcard project](https://flashcard-app-2022-version-2-0.vercel.app/) for an English School so that their students can review and prepare vocabulary for their classes.
+- I’m currently employed at a Japanese software firm based in Sapporo, Japan.
 
-- 🌱 I’m currently learning **Next.js & React**.
+- 🔭 Before employment I was working on [a flashcard project](https://flashcard-app-2022-version-2-0.vercel.app/) for an English School so that their students can review and prepare vocabulary for their classes.
+
+- 🌱 I’m currently learning ** Ruby on Rails**.
 
 - 👨‍💻 My projects are available on [my portfolio site](https://portfolio-site-js-edward-stalley.vercel.app/).
 
