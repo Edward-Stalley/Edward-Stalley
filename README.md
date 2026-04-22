@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">A passionate developer from Ireland who currently resides in Japan.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward-stalley" alt="edward-stalley" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward-stalley" alt="edward-stalley" /></a> </p> -->
 
 - I’m currently employed at a Japanese software firm based in Sapporo, Japan.
 
