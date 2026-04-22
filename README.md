@@ -8,7 +8,7 @@
 
 - 🔭 Before employment I was working on [a flashcard project](https://flashcard-app-2022-version-2-0.vercel.app/) for an English School so that their students can review and prepare vocabulary for their classes.
 
-- 🌱 I’m currently learning ** AWS **.
+- 🌱 I’m currently learning **AWS**.
 
 - 👨‍💻 My projects are available on [my portfolio site](https://portfolio-site-js-edward-stalley.vercel.app/).
 
