@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **AWS**.
 
+- I cannot share work related projects from the last 2 years but here is my most recent personal [project](https://movie-night-chitose.vercel.app/)
+
 - 👨‍💻 My projects are available on [my portfolio site](https://portfolio-site-js-edward-stalley.vercel.app/).
 
 - 📫 You can contact me at **stalleye@tcd.ie**.
