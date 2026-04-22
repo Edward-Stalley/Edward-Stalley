@@ -6,11 +6,11 @@
 
 - I’m currently employed at a Japanese software firm based in Sapporo, Japan.
 
+- My most recent personal [project](https://movie-night-chitose.vercel.app/)
+
 - 🔭 Before employment I was working on [a flashcard project](https://flashcard-app-2022-version-2-0.vercel.app/) for an English School so that their students can review and prepare vocabulary for their classes.
 
 - 🌱 I’m currently learning **AWS**.
-
-- I cannot share work related projects from the last 2 years but here is my most recent personal [project](https://movie-night-chitose.vercel.app/)
 
 - 👨‍💻 My projects are available on [my portfolio site](https://portfolio-site-js-edward-stalley.vercel.app/).
 
